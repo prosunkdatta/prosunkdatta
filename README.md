@@ -23,7 +23,7 @@ Healthcare facilities across the Sylhet corridor lose power during monsoon seaso
 
 **Target output:** arXiv preprint + MIT-licensed tool for energy operators
 
-→ [`piml-surgical-microgrid-sylhet`](https://github.com/prosunkdatta/piml-surgical-microgrid-sylhet)
+→ [`solar-resilience-piml-sylhet`](https://github.com/dynexlylab/solar-resilience-piml-sylhet)
 
 ---
 
