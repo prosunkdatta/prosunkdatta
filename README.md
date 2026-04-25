@@ -31,7 +31,7 @@ Healthcare facilities across the Sylhet corridor lose power during monsoon seaso
 
 | Repository | Description | Status |
 |---|---|---|
-| [piml-surgical-microgrid-sylhet](https://github.com/prosunkdatta/piml-surgical-microgrid-sylhet) | Physics-Informed ML for solar microgrid resilience in healthcare facilities | 🟢 Active |
+| [solar-resilience-piml-sylhet](https://github.com/dynexlylab/solar-resilience-piml-sylhet) | Physics-Informed ML for solar microgrid resilience in healthcare facilities | 🟢 Active |
 | [PhysData-Pipeline](https://github.com/prosunkdatta/physdata-pipeline) | Automated physics data analysis pipeline — raw CSV to publication-standard LaTeX figures | ✅ Complete |
 | [Stochastic-Physics-Sim](https://github.com/prosunkdatta/Stochastic-Physics-Sim) | Monte Carlo simulation of radioactive decay — 98%+ half-life accuracy reproduction | ✅ Complete |
 
