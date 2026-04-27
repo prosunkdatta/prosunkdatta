@@ -1,72 +1,18 @@
-# Prosun Datta
+# 💫 About Me:
+Hi, I'm Prosun Datta.<br><br>I'm a Physics‑Informed Machine Learning researcher and the Founder & Executive Director of Dynexly, a youth‑led non‑profit research collective.<br><br>My work focuses on embedding physical laws directly into neural networks so that critical infrastructure — starting with solar microgrids powering healthcare facilities — stays reliable even under extreme climate stress.<br><br>In March 2026, I founded Dynexly (Dynamic Neural Exploration Lab for Youth) to bridge rigorous open‑source science with real‑world deployment. Our flagship project, DX‑01, applies PIML to forecast solar generation and detect faults early in hospital microgrids along the Sylhet monsoon corridor. Every project ships both a research paper and a free, open‑source digital tool, tested with real users.<br><br>I lead a team of 30 researchers. All of our code, data, and publications are fully open‑source and freely available.<br><br>I am actively seeking research collaborations, mentorship, and partnerships that can scale physics‑guaranteed methods across climate‑vulnerable regions worldwide.
 
-**PIML Researcher · Founder & Executive Director, [Dynexly](https://github.com/dynexlylab) · Sylhet, Bangladesh**
 
----
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/prosunkdatta) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prosunkdatta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prosunkdatta) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@prosunkdatta) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/prosunkdatta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prosunkdatta@gmail.com) 
 
-I am Prosun Datta (legally Prosun Kanti Datta) — a Physics-Informed Machine Learning (PIML) researcher and the Founder & Executive Director of [Dynexly](https://github.com/dynexlylab) — a youth-led, non-profit research collective based in Sylhet, Bangladesh. My work focuses on embedding the fundamental laws of physics directly into neural networks, producing models that remain reliable and physically consistent even under chaotic real-world conditions.
-
-At Dynexly, we are building physics-guaranteed intelligence for critical infrastructure. Our flagship project, DX-01, is developing PIML models for solar microgrids that power healthcare facilities along the monsoon-stressed Sylhet corridor. By hard-coding photovoltaic physics into the learning objective, we aim to forecast solar generation and detect early equipment faults with reliability that conventional machine learning cannot provide — exactly when hospitals need it most. Results target an open-access arXiv preprint and a free, MIT-licensed tool for energy operators.
-
-I founded Dynexly in March 2026 to demonstrate that rigorous, open-source science can be driven by independent researchers and deployed for genuine public good. My long-term focus is scaling physics-guaranteed methods across climate-vulnerable regions in the Global South.
-
-I am actively seeking research collaborations, faculty mentorship, and institutional partnerships that can help transform physics-informed AI from a niche academic discipline into standard practice for critical infrastructure resilience.
-
----
-
-## Current Research
-
-### DX-01 — PIML for Solar Microgrid Resilience in Healthcare Facilities
-> *Dynexly Flagship · Ongoing*
-
-Healthcare facilities across the Sylhet corridor lose power during monsoon season — a direct threat to ICUs, surgical theatres, and vaccine cold chains. DX-01 is developing multi-task PIML models that jointly forecast solar generation and detect early equipment faults by hard-coding photovoltaic physics (via PVLib) into the learning objective, trained on NASA POWER meteorological data.
-
-**Target output:** arXiv preprint + MIT-licensed tool for energy operators
-
-→ [`solar-resilience-piml-sylhet`](https://github.com/dynexlylab/solar-resilience-piml-sylhet)
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![PocketBase](https://img.shields.io/badge/pocketbase-%23b8dbe4.svg?style=for-the-badge&logo=Pocketbase&logoColor=black) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=prosunkdatta&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=prosunkdatta&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=prosunkdatta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=prosunkdatta&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Projects
-
-| Repository | Description | Status |
-|---|---|---|
-| [solar-resilience-piml-sylhet](https://github.com/dynexlylab/solar-resilience-piml-sylhet) | Physics-Informed ML for solar microgrid resilience in healthcare facilities | 🟢 Active |
-| [PhysData-Pipeline](https://github.com/prosunkdatta/physdata-pipeline) | Automated physics data analysis pipeline — raw CSV to publication-standard LaTeX figures | ✅ Complete |
-| [Stochastic-Physics-Sim](https://github.com/prosunkdatta/Stochastic-Physics-Sim) | Monte Carlo simulation of radioactive decay — 98%+ half-life accuracy reproduction | ✅ Complete |
-
----
-
-## Technical Stack
-
-**Machine Learning**
-`PyTorch` `Physics-Informed Neural Networks` `Multi-task Learning` `PVLib`
-
-**Scientific Computing**
-`Python` `NumPy` `SciPy` `Pandas` `Matplotlib`
-
-**Infrastructure & Tools**
-`Git` `Linux / Bash` `VS Code` `NASA POWER API` `LaTeX`
-
----
-
-## Writing
-
-- [**Gravity, Gradients, and the 2 AM Ghost**](https://medium.com/@prosunkdatta/gravity-gradients-and-the-2-am-ghost-why-the-best-ai-engineers-stop-coding-and-start-seeing-86a96c4cbc7d) — On what physical intuition gives you that pure backpropagation cannot. *(Medium, March 2026)*
-
----
-
-## Connect
-
-| | |
-|---|---|
-| 🌐 Portfolio | [prosunkdatta.github.io](https://prosunkdatta.github.io) |
-| 💼 LinkedIn | [linkedin.com/in/prosunkdatta](https://www.linkedin.com/in/prosunkdatta/) |
-| 🔬 ORCID | [0009-0004-2557-9095](https://orcid.org/0009-0004-2557-9095) |
-| ✍️ Medium | [@prosunkdatta](https://medium.com/@prosunkdatta) |
-| 🐦 Twitter / X | [@prosunkdatta](https://twitter.com/prosunkdatta) |
-| 📧 Email | prosunkdatta@gmail.com |
-
----
-
-*Dynexly: Rigorous, open-source science — driven by independent researchers, deployed for genuine public good.*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
