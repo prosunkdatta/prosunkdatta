@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About:
 Prosun Datta works on machine learning systems constrained by physical law.<br><br> His research is oriented toward a specific class of problems — those where purely data-driven methods fail not by degree but by kind. Where the model is statistically competent and physically wrong. Where generalisation under distribution shift, sparse supervision, or extreme conditions requires not more data but deeper structure. His work addresses this through architectures and optimisation frameworks that embed governing equations, conservation laws, and deterministic physical priors directly into the learning system.<br><br> His technical focus spans physics-informed neural networks, PDE-constrained optimisation, hybrid mechanistic-statistical modelling, and uncertainty quantification in scientific AI. The thread connecting these is a single question he returns to repeatedly: under incomplete or imperfect information, what does it take for a computational system to produce reasoning that is not just accurate but physically consistent?<br><br> His interests extend further into numerical physics, stochastic systems, and the intersection of scientific computing with quantum computation — territory he approaches not as adjacent fields but as deeper expressions of the same foundational problem.<br><br> All work is developed openly, with rigorous evaluation, reproducible methodology, and full transparency of process.
 
 
@@ -11,5 +11,3 @@ Prosun Datta works on machine learning systems constrained by physical law.<br><
 ![](https://github-readme-stats.shion.dev/api?username=prosunkdatta&theme=darcula&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=prosunkdatta&theme=darcula&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=prosunkdatta&theme=darcula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
