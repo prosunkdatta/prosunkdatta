@@ -1,13 +1,23 @@
-# Hello, I am
-Prosun Datta works on machine learning systems constrained by physical law.<br><br>My research is oriented toward a specific class of problems — those where purely data-driven methods fail not by degree but by kind. Where the model is statistically competent and physically wrong. Where generalisation under distribution shift, sparse supervision, or extreme conditions requires not more data but deeper structure. I address this through architectures and optimisation frameworks that embed governing equations, conservation laws, and deterministic physical priors directly into the learning system.<br><br>My technical focus spans physics-informed neural networks, PDE-constrained optimisation, hybrid mechanistic-statistical modelling, and uncertainty quantification in scientific AI. The thread connecting these is a single question I return to repeatedly: under incomplete or imperfect information, what does it take for a computational system to produce reasoning that is not just accurate but physically consistent?<br><br>My interests extend further into numerical physics, stochastic systems, and the intersection of scientific computing with quantum computation — territory I approach not as adjacent fields but as deeper expressions of the same foundational problem.<br><br>Currently developing a physics-informed forecasting framework for solar microgrid resilience in the Sylhet monsoon corridor, Bangladesh.<br><br>All work is developed openly, with rigorous evaluation, reproducible methodology, and full transparency of process.
+# Hello, I am Prosun Datta
 
+I am a student and independent researcher interested in **computational physics, applied physics, scientific computing, and physics-informed machine learning**.
 
-## Connect
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/prosunkdatta/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prosunkdatta/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prosunkdatta/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@prosunkdatta) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Prosun-Datta-1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/prosunkdatta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prosunkdatta@gmail.com) 
+My work focuses on using computation to study physical systems that are difficult to model through purely analytical or purely data-driven approaches. I am particularly interested in combining **physical laws, numerical methods, mathematical modelling, and machine learning** to build models that remain meaningful beyond the data they were trained on.
 
-## Innovation Suite
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-## GitHub Stats
-![](https://github-readme-stats.shion.dev/api?username=prosunkdatta&theme=darcula&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=prosunkdatta&theme=darcula&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=prosunkdatta&theme=darcula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+My current technical interests include:
+
+**Computational Physics** — numerical modelling, dynamical systems, stochastic processes, simulation, and scientific programming.
+
+**Applied Physics** — energy systems, resilience of physical infrastructure, and physics-based modelling of real-world systems.
+
+**Scientific Machine Learning** — Physics-Informed Neural Networks (PINNs), hybrid physics-ML models, PDE-based modelling, forecasting, and uncertainty-aware approaches.
+
+**Scientific Computing** — Python, NumPy, Pandas, PyTorch, numerical analysis, data-driven modelling, and reproducible computational research.
+
+My current research project explores **physics-informed machine learning for solar microgrid resilience in the monsoon environment of Bangladesh**, combining physical constraints with machine learning to study forecasting and system behaviour under changing conditions.
+
+Beyond this, I am gradually exploring **numerical physics, computational methods, complex and stochastic systems, and the intersection of physics with emerging computational paradigms such as quantum computing**.
+
+I use GitHub to document my learning, experiments, simulations, research projects, and computational work openly, with an emphasis on **first-principles understanding, reproducibility, and learning through building**.
+
+> **Physics gives the laws. Mathematics gives the language. Computation gives us a way to experiment with both.**
